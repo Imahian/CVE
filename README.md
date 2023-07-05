@@ -10,10 +10,10 @@ Contributions to this project are welcome and encouraged. If you have developed 
 
 # To contribute, please follow these guidelines:
 
-    - Fork the repository and create a new branch for your contribution.
-    - Add your script to the appropriate folder, ensuring that it is properly named and includes a brief description or usage instructions.
-    - Make sure to include any necessary dependencies or requirements in a separate file or within the script itself.
-    - Submit a pull request, providing a clear description of your contribution and its relevance to CVEs.
+- Fork the repository and create a new branch for your contribution.
+- Add your script to the appropriate folder, ensuring that it is properly named and includes a brief description or usage instructions.
+- Make sure to include any necessary dependencies or requirements in a separate file or within the script itself.
+- Submit a pull request, providing a clear description of your contribution and its relevance to CVEs.
 
 # Directory Structure
 
